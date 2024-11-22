@@ -3,6 +3,22 @@
 ## Description  
 This repo only contains the data files for the dashboard [F1-Tracks](https://public.tableau.com/app/profile/harshit/viz/F1Tracks/Formula1Tracks).
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
+
+## Installation
+Clone the repository:
+   ```bash
+   git clone https://github.com/Har-Var/F1-Tracks.git
+   cd F1-Tracks
+   ```
+
 ## Project Structure
 The data is organized as follows:
 * `data`: Contains all the data files.
